@@ -2,3 +2,4 @@ Platypus is a simple and convenient theme for [Oh My ZSH](https://github.com/rob
 
 It does not mean to fancy but only practical displaying the critical information you need when working.
 
+![Screenshot](https://raw.githubusercontent.com/fdv/platypus/master/platypus.png)
